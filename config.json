@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "producteender",
+        "uuid": 6564294,
+        "checksum": "e7dtfg"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
